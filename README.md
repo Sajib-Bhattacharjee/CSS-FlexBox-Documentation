@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="_images-css-flexbox/1-css3-logo-1.png" alt="CSS Flexbox" title="CSS Flexbox" width="200" />
+  <img src="_images-css-flexbox/1-css3-logo-1.png" alt="CSS Flexbox" title="CSS Flexbox" width="600" />
 </p>
 
 # CSS Flexbox Documentation
