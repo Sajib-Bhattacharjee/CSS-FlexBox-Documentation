@@ -8,7 +8,7 @@ CSS Flexible Box Layout Module (Flexbox) is one of the most widely used and popu
 
 ## Welcome
 
-Hi All, I'm **`Sajib Bhattacharjee, A passionate Full-Stack Web-Developer`**, I wanna welcome you to CSS Flexbox Tutorial for beginners.
+Hello Everyone, I'm Sajib Bhattacharjee, A passionate Full-Stack Web-Developer, I want to welcome you to the CSS Flexbox discussion for beginners.
 
 ## About the Course
 
